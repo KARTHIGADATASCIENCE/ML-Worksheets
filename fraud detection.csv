@@ -1,0 +1,101 @@
+Transaction_ID,Amount,Transaction_Type,Account_Balance,Customer_Age,Transaction_Location,Card_Type,Is_Fraudulent
+T1,500,Online,10000,35,New York,Debit,0
+T2,2000,POS,25000,42,California,Credit,0
+T3,7500,Online,5000,29,Texas,Debit,1
+T4,1200,POS,15000,37,Florida,Credit,0
+T5,50,ATM,8000,25,Chicago,Debit,0
+T6,8000,Online,2000,28,New York,Credit,1
+T7,300,POS,12000,40,Los Angeles,Debit,0
+T8,10000,Online,1000,32,San Francisco,Credit,1
+T9,500,ATM,5000,45,Houston,Debit,0
+T10,1500,POS,22000,38,New York,Credit,0
+T11,200,Online,11000,31,Seattle,Debit,0
+T12,6000,POS,4000,26,Boston,Credit,1
+T13,450,ATM,7000,33,Miami,Debit,0
+T14,9200,Online,1500,30,Chicago,Credit,1
+T15,750,POS,14000,42,Dallas,Debit,0
+T16,9900,Online,1800,28,Atlanta,Credit,1
+T17,320,ATM,6000,50,Denver,Debit,0
+T18,11000,Online,700,27,San Diego,Credit,1
+T19,2200,POS,21000,35,Phoenix,Debit,0
+T20,470,ATM,7200,36,Las Vegas,Debit,0
+T21,5100,Online,3000,29,San Jose,Credit,1
+T22,600,POS,17000,41,Washington,Debit,0
+T23,8800,Online,900,34,Philadelphia,Credit,1
+T24,300,ATM,5200,37,Detroit,Debit,0
+T25,7500,Online,3500,32,Portland,Credit,1
+T26,200,POS,16000,39,Baltimore,Debit,0
+T27,9000,Online,1200,31,Indianapolis,Credit,1
+T28,680,ATM,8300,44,Columbus,Debit,0
+T29,5400,Online,2600,30,Austin,Credit,1
+T30,750,POS,18000,40,San Antonio,Debit,0
+T31,450,ATM,5800,45,Nashville,Debit,0
+T32,10300,Online,600,28,Charlotte,Credit,1
+T33,3200,POS,19500,35,Memphis,Debit,0
+T34,210,ATM,5100,36,Jacksonville,Debit,0
+T35,9000,Online,1700,31,Fort Worth,Credit,1
+T36,730,POS,15500,42,El Paso,Debit,0
+T37,6700,Online,4000,27,Denver,Credit,1
+T38,420,ATM,7400,38,Seattle,Debit,0
+T39,8900,Online,1600,33,Milwaukee,Credit,1
+T40,530,POS,12500,39,Boston,Debit,0
+T41,750,ATM,5900,46,Las Vegas,Debit,0
+T42,9500,Online,1400,30,Chicago,Credit,1
+T43,3200,POS,18800,43,Detroit,Debit,0
+T44,470,ATM,7000,37,Los Angeles,Debit,0
+T45,10500,Online,800,29,New York,Credit,1
+T46,660,POS,15800,41,Philadelphia,Debit,0
+T47,7800,Online,3200,32,Washington,Credit,1
+T48,400,ATM,5600,38,Dallas,Debit,0
+T49,9200,Online,2100,35,Phoenix,Credit,1
+T50,610,POS,14200,40,San Antonio,Debit,0
+T51,8400,Online,1100,28,San Francisco,Credit,1
+T52,480,ATM,6200,42,Miami,Debit,0
+T53,10300,Online,700,27,Atlanta,Credit,1
+T54,290,POS,16000,35,Nashville,Debit,0
+T55,8200,Online,2300,31,Indianapolis,Credit,1
+T56,340,ATM,5400,37,San Diego,Debit,0
+T57,9700,Online,1200,29,Columbus,Credit,1
+T58,450,POS,17500,41,Baltimore,Debit,0
+T59,6800,Online,3900,30,El Paso,Credit,1
+T60,390,ATM,5200,45,Memphis,Debit,0
+T61,10200,Online,750,26,Charlotte,Credit,1
+T62,570,POS,14500,39,Jacksonville,Debit,0
+T63,8000,Online,1900,34,Fort Worth,Credit,1
+T64,440,ATM,7300,36,Milwaukee,Debit,0
+T65,7600,Online,2800,31,Boston,Credit,1
+T66,300,POS,18500,40,Las Vegas,Debit,0
+T67,10800,Online,600,28,New York,Credit,1
+T68,490,ATM,7100,42,Los Angeles,Debit,0
+T69,9200,Online,1700,35,Chicago,Credit,1
+T70,500,POS,13200,39,Philadelphia,Debit,0
+T71,7400,Online,2600,32,Washington,Credit,1
+T72,520,ATM,6500,38,San Diego,Debit,0
+T73,8600,Online,1300,29,Dallas,Credit,1
+T74,430,POS,17200,41,San Francisco,Debit,0
+T75,9400,Online,1800,31,Miami,Credit,1
+T76,370,ATM,5500,37,Atlanta,Debit,0
+T77,10000,Online,900,26,Nashville,Credit,1
+T78,600,POS,16300,35,Indianapolis,Debit,0
+T79,7800,Online,2200,30,Columbus,Credit,1
+T80,480,ATM,6100,45,Jacksonville,Debit,0
+T81,9900,Online,700,27,Fort Worth,Credit,1
+T82,690,POS,14000,39,El Paso,Debit,0
+T83,8100,Online,2100,34,Charlotte,Credit,1
+T84,450,ATM,5700,36,Baltimore,Debit,0
+T85,9300,Online,1700,31,Memphis,Credit,1
+T86,320,POS,18000,40,Las Vegas,Debit,0
+T87,10500,Online,800,28,New York,Credit,1
+T88,560,ATM,7200,42,Los Angeles,Debit,0
+T89,8500,Online,1400,35,Chicago,Credit,1
+T90,510,POS,15500,39,Philadelphia,Debit,0
+T91,7400,Online,2500,32,Washington,Credit,1
+T92,450,ATM,6400,38,San Diego,Debit,0
+T93,8800,Online,1200,29,Dallas,Credit,1
+T94,390,POS,16800,41,San Francisco,Debit,0
+T95,9500,Online,1500,31,Miami,Credit,1
+T96,340,ATM,5800,37,Atlanta,Debit,0
+T97,10200,Online,600,26,Nashville,Credit,1
+T98,520,POS,15700,35,Indianapolis,Debit,0
+T99,7700,Online,1900,30,Columbus,Credit,1
+T100,850,POS,19000,41,Miami,Credit,0
